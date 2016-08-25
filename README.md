@@ -1,4 +1,4 @@
-# from hello-world to SSI
-my first repository
+# SSI
 
-hello there! there will always be room for first time
+This program will simulate SSI at BM1 FCRS
+
